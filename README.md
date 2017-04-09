@@ -27,16 +27,16 @@ The following three-step approach is used for solving the problem:
 The following results can be obtained by simply running **model.py**.
 
 #### Realized schedule
-(figures/realized.png)
+(src/figures/realized.png)
 
 #### Theoretical optimum model (100% electricity price forecast accuracy)
-(figures/theoretical.png)
+(src/figures/theoretical.png)
 
 #### MedianForecaster model
 The electricity price forecast:
-(figures/medianforecaster_electricity.png)
+(src/figures/medianforecaster_electricity.png)
 
 Results:
-(figures/medianforecaster.png)
+(src/figures/medianforecaster.png)
 
 The results show that cost savings can be achieved even by using optimization, and a simple model for electricity price forecast.
