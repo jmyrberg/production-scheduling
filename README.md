@@ -34,9 +34,9 @@ The following results can be obtained by simply running **model.py**.
 
 #### MedianForecaster model
 The electricity price forecast:
-![MedianForecaster](src/figures/medianforecaster_electricity.png)
+![MedianForecaster electricity price](src/figures/medianforecaster_electricity.png)
 
 Results:
-(src/figures/medianforecaster.png)
+![MedianForecaster](src/figures/medianforecaster.png)
 
 The results show that cost savings can be achieved even by using optimization, and a simple model for electricity price forecast.
