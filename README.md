@@ -27,14 +27,14 @@ The following three-step approach is used for solving the problem:
 The following results can be obtained by simply running **model.py**.
 
 #### Realized schedule
-(src/figures/realized.png)
+![Realized schedule](src/figures/realized.png)
 
 #### Theoretical optimum model (100% electricity price forecast accuracy)
-(src/figures/theoretical.png)
+![Theoretical optimum](src/figures/theoretical.png)
 
 #### MedianForecaster model
 The electricity price forecast:
-(src/figures/medianforecaster_electricity.png)
+![MedianForecaster](src/figures/medianforecaster_electricity.png)
 
 Results:
 (src/figures/medianforecaster.png)
